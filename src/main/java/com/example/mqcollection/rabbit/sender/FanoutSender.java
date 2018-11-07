@@ -1,4 +1,4 @@
-package com.example.mqcollection.rabbit.sender.fanout;
+package com.example.mqcollection.rabbit.sender;
 
 import org.springframework.amqp.core.FanoutExchange;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
